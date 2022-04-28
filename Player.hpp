@@ -1,6 +1,6 @@
 
-#include "Game.hpp"
 #pragma once
+#include "Game.hpp"
 
 const int MUST_COUP_AMOUNT = 10;
 const int LAST_ACTION_VALS = 2;

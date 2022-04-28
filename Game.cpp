@@ -54,10 +54,6 @@ namespace coup
         return this->active_players;
     }
 
-    void check_nickname(std::string &name)
-    {
-    }
-
     
 
 }

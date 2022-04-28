@@ -27,7 +27,6 @@ namespace coup
         static std::string is_alive(std::string &name);
         static std::string get_player_action(std::string &name);
         void clear_action(std::string &name);
-        void check_nickname(std::string &name);
         // void Game::undo_kill(std::string name);
         static std::string turn();
         static std::string winner();
